@@ -2,6 +2,9 @@
 
 A Storyblok custom fieldtype to add a color picker option in your blocks.
 
+## Archived
+Can be achieved with the `storyblok-palette` plugin.
+
 <img src="./media/tw.jpeg" alt="Touchwonders logo small" width="80"/>
 <img src="./media/storyblok.png" alt="Storyblok logo small" width="68"/>
 
